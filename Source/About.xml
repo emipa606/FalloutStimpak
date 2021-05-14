@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Fallout Stimpak</name>
+  <author>RamRod</author>
+  <supportedVersions>
+    <li>1.1</li>
+  </supportedVersions>
+  <packageId>FCP.Stimpak</packageId>
+  <description>This is a mod that adds in simple stimpaks with HD textures and no C#.</description>
+</ModMetaData>
