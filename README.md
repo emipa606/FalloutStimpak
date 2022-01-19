@@ -1,6 +1,6 @@
 # FalloutStimpak
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of RamRods mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2108399216
@@ -8,10 +8,10 @@ with permission
 
 - Added stack-graphics
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 This is a mod that adds in simple stimpaks with HD textures and no C#.
 
@@ -24,7 +24,7 @@ It costs 1 glitterworld medicine and 2000 work.
 Join our Discord for upcoming mods, features, and ways to help out!
 https://discord.gg/bDj7F8P
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 

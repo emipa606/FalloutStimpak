@@ -65,5 +65,6 @@
         <overdoseSeverityOffset>0.08~0.14</overdoseSeverityOffset>
       </li>
     </comps>
+    <orderedTakeGroup>Medicine</orderedTakeGroup>
   </ThingDef>
 </Defs>
