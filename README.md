@@ -7,6 +7,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2108399216
 with permission
 
 - Added stack-graphics
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2837929353]Chinese Translation
 
 ![Image](https://i.imgur.com/pufA0kM.png)
 
@@ -34,6 +35,7 @@ https://discord.gg/bDj7F8P
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
