@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: stimpak -->
+  <FCPStimpak.label>stimpak</FCPStimpak.label>
+  <!-- EN: A stimpak is a hand-held medication used in healing the body. When the medicine is injected, it provides quick healing of the body's minor wounds. -->
+  <FCPStimpak.description>A stimpak is a hand-held medication used in healing the body. When the medicine is injected, it provides quick healing of the body's minor wounds.</FCPStimpak.description>
+  <!-- EN: Take {0} -->
+  <FCPStimpak.ingestible.ingestCommandString>Take {0}</FCPStimpak.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <FCPStimpak.ingestible.ingestReportString>Taking {0}.</FCPStimpak.ingestible.ingestReportString>
+</LanguageData>
